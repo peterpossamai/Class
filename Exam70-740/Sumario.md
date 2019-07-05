@@ -2,15 +2,18 @@
 
 ## Introdução
 
-## Mindset
+## [Mindset](Mindset-Educacao.md)
+**_Educar-se é dever de todos!_**
+
+## [Introdução Powershell](Introducao-PowerShell.md)
 
 ## Capítulo 1 Instalação de Windows Servers em ambientes de host e de computação
-- Objetivo 1.1: Instalar, fazer o upgrade e migrar servidores e cargas de trabalho
-- Objetivo 1.2: Instalar e configurar o Nano Server
-- Objetivo 1.3: Criar, gerenciar e fazer a manutenção de imagens para implantação
+- [Objetivo 1.1: Instalar, fazer o upgrade e migrar servidores e cargas de trabalho](Cap1-Objetivo-1.1.md)
+- [Objetivo 1.2: Instalar e configurar o Nano Server](Cap1-Objetivo-1.2.md)
+- [Objetivo 1.3: Criar, gerenciar e fazer a manutenção de imagens para implantação](Cap1-Objetivo-1.3.md)
 
 ## Capítulo 2 Implementação de soluções de armazenamento
-- Objetivo 2.1: Configurar discos e volumes
+- [Objetivo 2.1: Configurar discos e volumes](Cap2-Objetivo-2.1.md)
 - Objetivo 2.2: Implementar o armazenamento no servidor
 - Objetivo 2.3: Implementar a desduplicação de dados
 
